@@ -4,6 +4,10 @@ h1{
 	text-align:center;
 	color:white;
 }
+img{
+	width:200;
+	height:200;
+}
 p{
 	text-align: center
 }
@@ -14,7 +18,7 @@ h2{
 	color:white;
 
 }
-img{
+body{
 
 	background-image: url(https://s-sd.ru/images/cms/thumbs/a5b0aeaa3fa7d6e58d75710c18673bd7ec6d5f6d/animfon_1200_auto_jpg.jpg);
 }
