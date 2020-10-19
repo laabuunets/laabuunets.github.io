@@ -27,3 +27,26 @@ img{
 	text-align: center;
 
 }
+body {
+	background-color: pink
+}
+h1{
+	text-shadow: 2px 2px 5px blue; 
+	background-color: #00ff00;
+	text-align:center;
+	color:white;
+}
+img{
+	width:200;
+	height:200;
+}
+p{
+	text-align: center
+}
+a{
+	color:black;
+}
+h2{
+	color:white;
+
+}
