@@ -1,32 +1,3 @@
-.card{
-	height:500px;
-	width:600px;
-	border:3px solid grey;
-	float:left;
-	margin:100px;
-	overflow: auto;
-	border-radius:20px;
-}
-h3{
-	text-align: center;
-}
-img{
-	width:400px;
-	display:block;
-	margin:auto;/*розміщення об'єкта по центру*/
-	border:3px solid grey;
-	border-radius:20px;
-}
-.but{ 
-	text-align: center;
-	float:right;
-	margin:20px;
-	width:80px;
-	height: 35px;
-	background:grey ;
-	text-align: center;
-
-}
 body {
 	background-color: pink
 }
