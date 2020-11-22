@@ -1,24 +1,74 @@
 body {
-	background-image: url(https://i.pinimg.com/originals/f8/10/38/f8103819da656ccffb9dd9906832a251.jpg);
+	background-image: url(https://html5book.ru/wp-content/uploads/2016/09/background74.jpg);
 }
 h1{
-	text-shadow: 2px 2px 5px blue; 
-	background-color: #00ff00;
 	text-align:center;
-	color:white;
 }
 img{
 	width:200;
 	height:200;
 }
-p{
-	text-align: center
-}
 a{
-	
+	text-decoration: none;
 	color:black;
 }
+a:hover{
+	color:grey;
+}
 h2{
-	color:white;
-
+	letter-spacing: 3px;
+		text-align: center;
+}
+.div2 {
+		font-size: 20px;
+		width: 100%;
+		font-family: 'Neucha';
+	}
+.div1 {
+     position:absolute;
+	 bottom:0;
+	 right: 0;
+	 width: 200px;
+	 margin: 0px 20px;
+	font-family: 'Neucha';
+	}
+.rez {
+		font-weight: 700;
+		text-align: right;
+		font-family: 'Neucha';
+	}
+.dataAboutText {
+		font-size: 20px;
+		width: 100%;
+		font-family: 'Neucha';
+	}
+.one{
+   font-family: 'Neucha', cursive;
+	text-align: center;
+}
+.two{
+    text-align:center;
+    font-family: 'Neucha', cursive;
+}
+.two:hover{
+	color:grey;
+}
+#img{
+	position: absolute;
+	height: 65px;
+	width: 65px;
+	left: 750px;
+top:10px;}
+.up{
+	display: block;
+	position: fixed;
+	top: 90%;
+	right: 30px;
+	text-align: center;
+	height: 60px;
+	width: 60px;
+	background-color: rgba(0, 120, 201, 0.7);
+	border-radius: 50%;
+	text-decoration: none;
+	font-size: 50px;
 }

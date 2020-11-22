@@ -1,3 +1,6 @@
+body{
+	background-image: url(https://html5book.ru/wp-content/uploads/2016/09/background74.jpg);
+}
 .card{
 	height:500px;
 	width:600px;
@@ -30,8 +33,18 @@ img{
 }
 a{
 	text-decoration: none;
-	color:peachpuff;
+	color:black;
 }
-.but2{
+.up{
+	display: block;
+	position: fixed;
+	top: 90%;
+	right: 30px;
 	text-align: center;
+	height: 60px;
+	width: 60px;
+	background-color: rgba(0, 120, 201, 0.7);
+	border-radius: 50%;
+	text-decoration: none;
+	font-size: 50px;
 }
