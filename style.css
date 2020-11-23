@@ -53,16 +53,10 @@ h2{
 .two:hover{
 	color:grey;
 }
-#img{
-	position: absolute;
-	height: 65px;
-	width: 65px;
-	left: 750px;
-top:10px;}
 .up{
 	display: block;
 	position: fixed;
-	top: 80%;
+	top: 85%;
 	right: 30px;
 	text-align: center;
 	height: 60px;
@@ -71,4 +65,11 @@ top:10px;}
 	border-radius: 50%;
 	text-decoration: none;
 	font-size: 50px;
+}
+.silka a {
+    float: left;
+    text-align: center;
+    padding:10px;
+    text-decoration: none;
+    font-size: 17px;
 }
